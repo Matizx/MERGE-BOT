@@ -11,6 +11,6 @@ class Config(object):
     DATABASE_URL = "mongodb+srv://MdMatin:x7bdggKJ9zb9JSK@cluster0.89bzvjn.mongodb.net/?retryWrites=true&w=majority"
     LOGCHANNEL = "-1001812984233"  # Add channel id as -100 + Actual ID
     GDRIVE_FOLDER_ID = os.environ.get("GDRIVE_FOLDER_ID","root")
-    USER_SESSION_STRING = "BQDofsQAoXGuXHmbZl5X0HwAKGG-L8fUjwGABHU1OP-nA_j9chKLADukczZFNvy7UG11fCh9FaKAUZvAuC-Ushol3Z6yuOluh9a3WyKrabwrGeOTRsrTrzW_gdhRdg2ZyrVDtwYILUP0ae0fYOkvq5bmtx8H8sb0iYUDLPNTcJT3_p1QHl_mAlckgJUmM9sN1lJdQiGmEwav-izFPquaaPLS_iNKjqGM-dWGQiYg2RR4RbXR6faoSy_KNDzhb2X8VLjvqfnOcnI1QuwlUh_NUUmGok0roALUaysSyjft2cFzV8l3s3VoztBIVc_EKH97KIWcHuXiNPYXQ2x4bRJEQ4VBHvktLQAAAAB1Ar9BAA"
+    USER_SESSION_STRING = "BQDofsQAKPLt_WZTCrrd_JvIT9qrTS1DX7_br6z_kA-QFUlnPQG0jXEQ978NUCL33oUr7mbbCc9X2fuTwKhiYH2VsRd5MhFAiRjehix1G0sl8N27vtvzN4f4_uQRsqgwsc0eIRSelh8-CVI1e4_Z0suEPQJUfPdPmH3ZIe0GqDQR0S_hI_ooipZkIkUHlMZdcZTc4Ov1XAuIThidFoiW_bUuoeBFs6FQDpTtW1blqEVEmmqoMkkbHM6WC2KhB5i41tl6C3HdCN3AVuAnFSt4KpTTLqP19m8lZayDrF-K7Kwh_vNYroP9Xrbi9FZCpM7lxUcQui3AjxZuz7RMZvnr9l-oAFCy_AAAAAB1Ar9BAA"
     IS_PREMIUM = "True"
     MODES = ["video-video", "video-audio", "video-subtitle","extract-streams"]
